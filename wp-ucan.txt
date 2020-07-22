@@ -2,3 +2,5 @@ wp-ucan
 -untuk membuat project
 -membuat platfom untuk pengeloloaan project
 -membuat forum diskusi
+-membuat march shop
+-koloborasi dengan yang lebih expert 
